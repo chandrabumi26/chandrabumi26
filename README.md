@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @chandrabumi26
-- 👀 I want to be Code Meister
-- 🌱 I’m currently learning react, kotlin, dart flutter
+- 🌱 Now i'm focusing on frontend language stuff and blockchain technology
 
 <!---
 chandrabumi26/chandrabumi26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
